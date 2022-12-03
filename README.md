@@ -12,7 +12,6 @@ Table of content
 
 ## Crawl
 People
-- 
 
 ## Monetization
 - Charging users for access to the chatbot or for certain features or services provided by the chatbot
