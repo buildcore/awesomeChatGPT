@@ -1,6 +1,9 @@
 # Awesome ChatGPT [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Sponsor 
 
 A self-curated list of awesome ChatGPT prompts and resources
+
+<center>Telegram bot</center>
 
 Table of content
 
@@ -18,3 +21,5 @@ People
 - Using the chatbot to generate leads or sales for a business or product, and earning a commission on those sales
 
 ## Architecture
+
+HLRF
